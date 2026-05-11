@@ -105,6 +105,7 @@ plot(t,eam);
 <img width="919" height="1290" alt="image" src="https://github.com/user-attachments/assets/03d6ca7c-9fa1-4a92-81c6-2718308bad80" />
 
 # OUTPUT WAVEFORM:
+<img width="1536" height="977" alt="image" src="https://github.com/user-attachments/assets/00aa4b96-1794-44f7-9a6b-b7403f04dba1" />
 
 
 # TABULATION:
