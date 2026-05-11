@@ -1,4 +1,5 @@
 #GENERATION-AND-DETECTION-OF-AM
+
 #AIM:
 To generate and detect the amplitude modulation and demodulation u s i n g S C I L A B and to calculate modulation index of AM.
 
